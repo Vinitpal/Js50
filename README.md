@@ -1,6 +1,6 @@
 # Js50
 
-This repository contains 50 projects from Brad Traversy udemy course
+This repository contains 50 projects from 50Days Javascript Projects udemy course by Brad Traversy
 
 | Days (click to view code) | Live Preview                                                                        |
 | ------------------------- | ----------------------------------------------------------------------------------- |
