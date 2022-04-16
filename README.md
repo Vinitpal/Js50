@@ -2,22 +2,22 @@
 
 This repository contains 50 projects from 50Days Javascript Projects udemy course by Brad Traversy
 
-| Days (click to view code) | Live Preview                                                                        |
-| ------------------------- | ----------------------------------------------------------------------------------- |
-| [Day1](./day1)            | [Expanding Cards](https://vinitpal.github.io/Js50/day1/index.html)                  |
-| [Day2](./day2)            | [Progress Steps](https://vinitpal.github.io/Js50/day2/index.html)                   |
-| [Day3](./day3)            | [Rotating Navigation](https://vinitpal.github.io/Js50/day3/index.html)              |
-| [Day4](./day4)            | [Hidden Search](https://vinitpal.github.io/Js50/day4/index.html)                    |
-| [Day5](./day5)            | [Blurry Loading](https://vinitpal.github.io/Js50/day5/index.html)                   |
-| [Day6](./day6)            | [Scroll Animation](https://vinitpal.github.io/Js50/day6/index.html)                 |
-| [Day7](./day7)            | [Split Landing Page](https://vinitpal.github.io/Js50/day7/index.html)               |
-| [Day8](./day8)            | [Form Wave Animation](https://vinitpal.github.io/Js50/day8/index.html)              |
-| [Day9](./day9)            | [Sound Board](https://vinitpal.github.io/Js50/day9/index.html)                      |
-| [Day10](./day10)          | [Jokes Generator](https://vinitpal.github.io/Js50/day10/jokes-generator/index.html) |
-| [Day11](./day11)          | [Event Keycodes](https://vinitpal.github.io/Js50/day11/index.html)                  |
-| [Day12](./day12)          | [FAQ Page](https://vinitpal.github.io/Js50/day12/index.html)                        |
-| [Day13](./day13)          | [Random Choice Picker](https://vinitpal.github.io/Js50/day13/index.html)            |
-| [Day14](./day14)          | [Animated Navigation](https://vinitpal.github.io/Js50/day14/index.html)             |
-| [Day15](./day15)          | [Incrementing Counter](https://vinitpal.github.io/Js50/day15/index.html)            |
-| [Day16](./day16)          | [Water Goal App](https://vinitpal.github.io/Js50/day16/index.html)                  |
-| [Day17](./day17)          | [Movie App](https://vinitpal.github.io/Js50/day17/index.html)                       |
+| Days (click to view code)          | Live Preview                                                                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Day1](./01-Expanding-Cards)       | [Expanding Cards](https://vinitpal.github.io/Js50/01-Expanding-Cards/index.html)                 |
+| [Day2](./02-Progress-Steps)        | [Progress Steps](https://vinitpal.github.io/Js50/02-Progress-Steps/index.html)                   |
+| [Day3](./03-Rotating-Navigation)   | [Rotating Navigation](https://vinitpal.github.io/Js50/03-Rotating-Navigation/index.html)         |
+| [Day4](./04-Hidden-Search)         | [Hidden Search](https://vinitpal.github.io/Js50/04-Hidden-Search/index.html)                     |
+| [Day5](./05-Blurry-Loading)        | [Blurry Loading](https://vinitpal.github.io/Js50/05-Blurry-Loading/index.html)                   |
+| [Day6](./06-Scroll-Animation)      | [Scroll Animation](https://vinitpal.github.io/Js50/06-Scroll-Animation/index.html)               |
+| [Day7](./07-Split-landing-page)    | [Split Landing Page](https://vinitpal.github.io/Js50/07-Split-landing-page/index.html)           |
+| [Day8](./08-Form-Wave-Animation)   | [Form Wave Animation](https://vinitpal.github.io/Js50/08-Form-Wave-Animation/index.html)         |
+| [Day9](./09-Sound-Board)           | [Sound Board](https://vinitpal.github.io/Js50/09-Sound-Board/index.html)                         |
+| [Day10](./10-Jokes-Generator)      | [Jokes Generator](https://vinitpal.github.io/Js50/10-Jokes-Generator/jokes-generator/index.html) |
+| [Day11](./11-Event-Keycodes)       | [Event Keycodes](https://vinitpal.github.io/Js50/11-Event-Keycodes/index.html)                   |
+| [Day12](./12-Faq-Page)             | [FAQ Page](https://vinitpal.github.io/Js50/12-Faq-Page/index.html)                               |
+| [Day13](./13-Random-Choice-Picker) | [Random Choice Picker](https://vinitpal.github.io/Js50/day13/index.html)                         |
+| [Day14](./14-Animated-Navigation)  | [Animated Navigation](https://vinitpal.github.io/Js50/14-Animated-Navigation/index.html)         |
+| [Day15](./15-Incrementing-Counter) | [Incrementing Counter](https://vinitpal.github.io/Js50/15-Incrementing-Counter/index.html)       |
+| [Day16](./16-Water-Goal-App)       | [Water Goal App](https://vinitpal.github.io/Js50/16-Water-Goal-App/index.html)                   |
+| [Day17](./17-Movie-App)            | [Movie App](https://vinitpal.github.io/Js50/17-Movie-App/index.html)                             |
